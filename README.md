@@ -24,14 +24,14 @@
 
 ## DSL, etc.
 
-### Common
+#### Common
 
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/HTML5-202340?style=for-the-badge&logo=html5&logoColor=E34F26"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/CSS3-202340?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/SASS-202340?style=for-the-badge&logo=Sass&logoColor=CC6699"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/SVG-202340?style=for-the-badge&logo=SVG&logoColor=FFB13B"/></a>
 
-### Syntax
+#### Syntax
 
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/JSON-202340?style=for-the-badge&logo=Json&logoColor=ffffff"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/.ENV-202340?style=for-the-badge&logo=.ENV&logoColor=ECD53F"/></a>
@@ -54,7 +54,7 @@
 
 ## Technical Stacks
 
-### Common
+#### Common
 
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Node.js-202340?style=for-the-badge&logo=Node.js&logoColor=339933"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Git-202340?style=for-the-badge&logo=Git&logoColor=F05032"/></a>
@@ -67,18 +67,18 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/OpenSSL-202340?style=for-the-badge&logo=OpenSSL&logoColor=721412"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Apache Kafka-202340?style=for-the-badge&logo=ApacheKafka&logoColor=935F90"/></a>
 
-### Blockchain
+#### Blockchain
 
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-202340?style=for-the-badge&logo=Bitcoin&logoColor=F7931A"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Ethereum-202340?style=for-the-badge&logo=Ethereum&logoColor=7C7C7D"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Hyperledger-202340?style=for-the-badge&logo=Hyperledger&logoColor=9Fa1a4"/></a>
 
-### AI
+#### AI
 
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-202340?style=for-the-badge&logo=Tensorflow&logoColor=FF6F00"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Keras-202340?style=for-the-badge&logo=Keras&logoColor=D00000"/></a>
 
-### Amazon Web Service (AWS)
+#### Amazon Web Service (AWS)
 
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/AWS-202340?style=for-the-badge&logo=AmazonAWS&logoColor=FF9900"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/EC2-202340?style=for-the-badge&logo=AmazonEc2&logoColor=FF9900"/></a>
