@@ -1,15 +1,19 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshyunku&count_bg=%2300CD88&title_bg=%23555555&icon=codeforces.svg&icon_color=%23FFFFFF&title=view&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/shyunku?style=social)
 
-## Overview
+# Overview
+
+## Activities
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyunku&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyunku&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Baekjoon
+
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=whdudgns412)](https://solved.ac/whdudgns412)
 
-## Programming Language
+# Stacks
 
----
+## Programming Language
 
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Python-202340?style=for-the-badge&logo=Python&logoColor=3776AB"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/C-202340?style=for-the-badge&logo=C&logoColor=A8B9CC"/></a>
@@ -23,8 +27,6 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Solidity-202340?style=for-the-badge&logo=Solidity&logoColor=999999"/></a>
 
 ## DSL, etc.
-
----
 
 ### Common
 
@@ -43,8 +45,6 @@
 
 ## Frameworks
 
----
-
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Electron-202340?style=for-the-badge&logo=Electron&logoColor=77a4aF"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Express-202340?style=for-the-badge&logo=Express&logoColor=ffffff"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/jQuery-202340?style=for-the-badge&logo=jQuery&logoColor=0769AD"/></a>
@@ -57,8 +57,6 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/.NET-202340?style=for-the-badge&logo=.NET&logoColor=914Bf4"/></a>
 
 ## Technical Stacks
-
----
 
 ### Common
 
@@ -95,8 +93,6 @@
 
 ## Game & Graphics
 
----
-
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Unity-202340?style=for-the-badge&logo=Unity&logoColor=FFFFFF"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Unreal Engine-202340?style=for-the-badge&logo=UnrealEngine&logoColor=ffffff"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/WebGL-202340?style=for-the-badge&logo=WebGL&logoColor=990000"/></a>
@@ -104,8 +100,6 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Canvas2D-202340?style=for-the-badge&logo=Canvas2D&logoColor=ffffff"/></a>
 
 ## Database
-
----
 
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/SQLite-202340?style=for-the-badge&logo=SQLite&logoColor=306B87"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/MySQL-202340?style=for-the-badge&logo=MySQL&logoColor=84A9f1"/></a>
@@ -116,8 +110,6 @@
 
 ## Others
 
----
-
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Apache-202340?style=for-the-badge&logo=Apache&logoColor=D22128"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Nginx-202340?style=for-the-badge&logo=Nginx&logoColor=009639"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Android-202340?style=for-the-badge&logo=Android&logoColor=3DDC84"/></a>
@@ -126,6 +118,6 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/NPM-202340?style=for-the-badge&logo=NPM&logoColor=#CB3837"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Yarn-202340?style=for-the-badge&logo=Yarn&logoColor=2C8EBB"/></a>
 
-## Other accounts
+# Other accounts
 
 - [shyunku-archive](https://github.com/shyunku-archive): archive my old, expired projects & repositories
