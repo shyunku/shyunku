@@ -1,7 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshyunku&count_bg=%2300CD88&title_bg=%23555555&icon=codeforces.svg&icon_color=%23FFFFFF&title=view&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/shyunku?style=social)
 
-# Overview
-
 ## Activities
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyunku&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,8 +8,6 @@
 ## Baekjoon
 
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=whdudgns412)](https://solved.ac/whdudgns412)
-
-# Stacks
 
 ## Programming Language
 
@@ -118,6 +114,6 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/NPM-202340?style=for-the-badge&logo=NPM&logoColor=#CB3837"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Yarn-202340?style=for-the-badge&logo=Yarn&logoColor=2C8EBB"/></a>
 
-# Other accounts
+## Other accounts
 
 - [shyunku-archive](https://github.com/shyunku-archive): archive my old, expired projects & repositories
