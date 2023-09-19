@@ -105,3 +105,4 @@
 ## Other accounts
 
 - [shyunku-archive](https://github.com/shyunku-archive): archive my old, expired projects & repositories
+- [shyunku-libraries](https://github.com/shyunku-libraries): lists libraries I made officially
