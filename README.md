@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/shyunku?style=social">
 </div>
 
-
+<br />
 <h3 align="center" style="margin-top: 30px">Tech Stacks</h3>
 <div align="center" style="margin-top: 0">
   <a href="/" target="_blank"><img src="https://img.shields.io/badge/Node.js-202340?style=for-the-badge&logo=Node.js&logoColor=339933"/></a>
@@ -45,6 +45,7 @@
   <a href="/" target="_blank"><img src="https://img.shields.io/badge/S3-202340?style=for-the-badge&logo=AmazonS3&logoColor=1572B6"/></a>
 </div>
 
+<br />
 <h3 align="center" style="margin-top: 40px">Other activities</h3>
 <p align="center" style="margin-top: 0px">
   <a href="https://shyunku.tistory.com/">
@@ -58,7 +59,7 @@
   </a>
 </p>
 
-
+<br />
 <h3 align="center" style="margin-top: 40px">Git activities</h3>
 <p align="center" style="margin-top: 0px">
   <img src="https://github-readme-stats.vercel.app/api?username=shyunku&show_icons=true&bg_color=300,00101540,00405580&line_height=28&border_radius=0&border_color=afafff40&text_color=668"/>
