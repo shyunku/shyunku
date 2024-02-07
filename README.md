@@ -103,6 +103,6 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Yarn-202340?style=for-the-badge&logo=Yarn&logoColor=2C8EBB"/></a>
 
 ## Other accounts
-
-- [shyunku-archive](https://github.com/shyunku-archive): archive my old, expired projects & repositories
+- [shyunku-archives](https://github.com/shyunku-archives): archive my old, expired projects & repositories (official)
+- [shyunku-archive](https://github.com/shyunku-archive): archive my old, expired projects & repositories (unofficial)
 - [shyunku-libraries](https://github.com/shyunku-libraries): lists libraries I made officially
