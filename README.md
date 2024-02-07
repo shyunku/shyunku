@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0090ff50,100:a900ff50&fontColor=fff&height=200&section=header&text=shyunku&fontSize=60&fontAlignY=40">
 </p>
 
-<p align="center" style="margin-top: -40px">
+<div align="center" style="margin-top: -40px">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshyunku&count_bg=%2300CD88&title_bg=%2315555&icon=codeforces.svg&icon_color=%23FFFFFF&title=view&edge_for-the-badge=false"/>
   <img src="https://img.shields.io/github/followers/shyunku?style=social">
-</p>
+</div>
+
 
 <h3 align="center" style="margin-top: 30px">Tech Stacks</h3>
 <div align="center" style="margin-top: 0">
@@ -57,9 +58,11 @@
   </a>
 </p>
 
+
 <h3 align="center" style="margin-top: 40px">Git activities</h3>
 <p align="center" style="margin-top: 0px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyunku&langs_count=10&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyunku&show_icons=true&bg_color=300,00101540,00405580&line_height=28&border_radius=0&border_color=afafff40&text_color=668"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyunku&langs_count=10&bg_color=300,00101540,00405580&layout=compact&border_radius=0&border_color=afafff40&text_color=88a">
 </p>
 
 
