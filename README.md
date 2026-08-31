@@ -1,73 +1,105 @@
-<p align="center" style="margin-top: 0px">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0090ff50,100:a900ff50&fontColor=fff&height=200&section=header&text=shyunku&fontSize=60&fontAlignY=40">
-</p>
+<div align="center">
 
-<div align="center" style="margin-top: -40px">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshyunku&count_bg=%2300CD88&title_bg=%2315555&icon=codeforces.svg&icon_color=%23FFFFFF&title=view&edge_for-the-badge=false"/>
-  <img src="https://img.shields.io/github/followers/shyunku?style=social">
+# shyunku
+
+### Curious enough to open the black box.
+
+When something catches my attention, I keep following it —<br />
+from the interface to the protocol, and from the product to the system underneath.
+
+[![Tech Blog](https://img.shields.io/badge/TECH_BLOG-111827?style=flat-square&logo=tistory&logoColor=white)](https://shyunku.tistory.com/)
+[![GitHub followers](https://img.shields.io/github/followers/shyunku?label=FOLLOWERS&style=flat-square&color=111827)](https://github.com/shyunku?tab=followers)
+
 </div>
 
+---
+
+## Where curiosity takes me
+
+| | Direction | What I tend to explore |
+| :---: | --- | --- |
+| 🖥️ | **Applications** | How an idea becomes an interface I can touch and test |
+| ⚙️ | **Systems** | What happens behind an API, a real-time service, or a stream of data |
+| 🧰 | **Tools** | Parsers, simulators, libraries, and automation for problems I want to understand |
+| 🧪 | **Rabbit holes** | Games, cryptography, blockchain, and whatever feels worth taking apart |
+
+## Selected work
+
+| Project | What it is | Area |
+| --- | --- | --- |
+| [**team.gg**](https://github.com/shyunku/teamgg) | A League of Legends platform that grew from match history into custom-team statistics, ROFL parsing, and AI-assisted replay analysis | Game Platform · Data Analysis |
+| [**Fluid**](https://github.com/shyunku/fluid) | A from-scratch exploration of React internals: virtual DOM, Fiber reconciliation, hooks, routing, and an in-browser JSX transformer | UI Runtime · Learning Project |
+| [**Thread**](https://github.com/shyunku/thread) | One task-management idea followed across Electron, React Native, a Go sync server, and release and administration services | Productivity · Cross-platform |
+| [**CushionBot**](https://github.com/shyunku/CushionBot) | A Java Discord bot that expanded into per-server music, League custom-game coordination, recruiting, and activity monitoring | Community Tool · Automation |
+
+> The stack changes from project to project. The pattern does not: find an interesting question, then follow it further than expected.
+
+## Tools I work with
+
+**Applications & interfaces**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-111827?style=flat-square&logo=electron&logoColor=9FEAF9)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-111827?style=flat-square&logo=sass&logoColor=CC6699)
+
+**Services & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8)
+![Gin](https://img.shields.io/badge/Gin-111827?style=flat-square&logo=gin&logoColor=00ADD8)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=4EA4D4)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=FF4438)
+
+<details>
+<summary><strong>More technologies I have worked with</strong></summary>
 <br />
-<h3 align="center" style="margin-top: 30px">Tech Stacks</h3>
-<div align="center" style="margin-top: 0">
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/Node.js-202340?style=for-the-badge&logo=Node.js&logoColor=339933"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/Electron-202340?style=for-the-badge&logo=Electron&logoColor=77a4aF"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/Express-202340?style=for-the-badge&logo=Express&logoColor=ffffff"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/React-202340?style=for-the-badge&logo=React&logoColor=61DAFB"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/Gin-202340?style=for-the-badge&logo=Gin&logoColor=ffffff"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/jQuery-202340?style=for-the-badge&logo=jQuery&logoColor=0769AD"/></a>
-</div>
-<div align="center" style="margin-top: -15px">
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/Go-202340?style=for-the-badge&logo=Csharp&logoColor=00ADD8"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/JAVA-202340?style=for-the-badge&logo=Java&logoColor=007396"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/Typescript-202340?style=for-the-badge&logo=Typescript&logoColor=F7DF1E"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/Javascript-202340?style=for-the-badge&logo=Csharp&logoColor=F7DF1E"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/PHP-202340?style=for-the-badge&logo=Csharp&logoColor=777BB4"/></a>
-</div>
-<div align="center" style="margin-top: -15px">
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/HTML5-202340?style=for-the-badge&logo=html5&logoColor=E34F26"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/CSS3-202340?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/SASS-202340?style=for-the-badge&logo=Sass&logoColor=CC6699"/></a>
-</div>
-<div align="center" style="margin-top: -15px">
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/SQLite-202340?style=for-the-badge&logo=SQLite&logoColor=306B87"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/MySQL-202340?style=for-the-badge&logo=MySQL&logoColor=84A9f1"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-202340?style=for-the-badge&logo=MongoDB&logoColor=47A248"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/Redis-202340?style=for-the-badge&logo=Redis&logoColor=DC382D"/></a>
-</div>
-<div align="center" style="margin-top: -15px">
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/Ethereum-202340?style=for-the-badge&logo=Ethereum&logoColor=7C7C7D"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-202340?style=for-the-badge&logo=Bitcoin&logoColor=7C7C7D"/></a>
-</div>
-<div align="center" style="margin-top: -15px">
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/AWS-202340?style=for-the-badge&logo=AmazonAWS&logoColor=FF9900"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/EC2-202340?style=for-the-badge&logo=AmazonEc2&logoColor=FF9900"/></a>
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/S3-202340?style=for-the-badge&logo=AmazonS3&logoColor=1572B6"/></a>
+
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=777BB4)
+![jQuery](https://img.shields.io/badge/jQuery-111827?style=flat-square&logo=jquery&logoColor=0769AD)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-111827?style=flat-square&logo=amazonec2&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-111827?style=flat-square&logo=amazons3&logoColor=569A31)
+![Ethereum](https://img.shields.io/badge/Ethereum-111827?style=flat-square&logo=ethereum&logoColor=8C8C8C)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-111827?style=flat-square&logo=bitcoin&logoColor=F7931A)
+
+</details>
+
+## GitHub activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+    <img alt="shyunku's GitHub contribution graph" src="./profile-3d-contrib/profile-green.svg" />
+  </picture>
 </div>
 
-<br />
-<h3 align="center" style="margin-top: 40px">Other activities</h3>
-<p align="center" style="margin-top: 0px">
-  <a href="https://shyunku.tistory.com/">
-    <img src="https://img.shields.io/badge/TECH%20BLOG-32a36f.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC6YEs-6dUDrXWGNcUOpbWMA">
-    <img src="https://img.shields.io/badge/YOUTUBE-aa4444.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="https://solved.ac/profile/whdudgns412">
-    <img src="https://img.shields.io/badge/SOLVED.AC-22a32f.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyunku&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyunku&theme=github" />
+    <img height="170" alt="shyunku's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyunku&theme=github" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shyunku&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shyunku&theme=github" />
+    <img height="170" alt="shyunku's repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shyunku&theme=github" />
+  </picture>
+</div>
 
-<br />
-<h3 align="center" style="margin-top: 40px">Git activities</h3>
-<p align="center" style="margin-top: 0px">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyunku&show_icons=true&bg_color=300,00101540,00405580&line_height=28&border_radius=0&border_color=afafff40&text_color=668"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyunku&langs_count=10&bg_color=300,00101540,00405580&layout=compact&border_radius=0&border_color=afafff40&text_color=88a">
-</p>
+## Elsewhere on GitHub
 
+- [**shyunku-libraries**](https://github.com/shyunku-libraries) — maintained libraries and reusable packages
+- [**shyunku-archives**](https://github.com/shyunku-archives) — older and retired projects kept for reference
 
-## Other accounts
-
-- [shyunku-archives](https://github.com/shyunku-archives): archive my old, expired projects & repositories
-- [shyunku-libraries](https://github.com/shyunku-libraries): lists libraries I made officially
+<div align="center">
+  <sub>Still following the next interesting question.</sub>
+</div>
